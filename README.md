@@ -10,4 +10,5 @@
 -utils
 --\losses.py
 
-<img width="1013" height="269" alt="image" src="https://github.com/user-attachments/assets/88224863-5ebb-4f2d-8c07-a8c505933eac" />
+<img width="1124" height="408" alt="image" src="https://github.com/user-attachments/assets/f92b6e9c-7ec5-4b50-bfc6-d0e1025e9061" />
+
